@@ -13,3 +13,8 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 2. Realiza ejercicios de fuerza (levantamiento de pesas, flexiones, sentadillas) durante 30-60 minutos.
 3. Termina con un enfriamiento y estiramientos.
 
+## Consejos
+- Aumenta progresivamente el peso o la intensidad.
+- Mantén una postura adecuada para evitar lesiones.
+- Realiza descansos entre series y ejercicios.
+
