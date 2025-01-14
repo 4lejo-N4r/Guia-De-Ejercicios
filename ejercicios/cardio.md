@@ -13,3 +13,9 @@ Reduce el riesgo de enfermedades: Ayuda a prevenir enfermedades como la hiperten
 Calentamiento (5-10 minutos): Realiza actividades suaves como caminar, trotar o saltar la cuerda para preparar tu cuerpo para el ejercicio más intenso.
 Actividad principal (30 minutos o más): Realiza una actividad como correr, nadar, andar en bicicleta o hacer entrenamiento en intervalos (HIIT). Trata de mantener una intensidad moderada durante la mayor parte del tiempo.
 Enfriamiento y estiramientos (5-10 minutos): Disminuye gradualmente la intensidad y realiza estiramientos para evitar lesiones y mejorar la flexibilidad.
+
+##Consejos
+Mantén una hidratación adecuada: Bebe agua antes, durante y después del ejercicio.
+Escoge un ritmo que puedas mantener: No es necesario correr a máxima velocidad. Mantén un ritmo que puedas sostener durante todo el tiempo recomendado para maximizar los beneficios.
+Escucha a tu cuerpo: Si sientes dolor o incomodidad, detente y consulta a un profesional si es necesario.
+Varía las actividades: Cambiar entre diferentes tipos de cardio (correr, nadar, bicicleta, HIIT) puede evitar el aburrimiento y trabajar diferentes grupos musculares.
