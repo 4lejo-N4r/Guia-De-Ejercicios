@@ -19,3 +19,9 @@ Mantén una hidratación adecuada: Bebe agua antes, durante y después del ejerc
 Escoge un ritmo que puedas mantener: No es necesario correr a máxima velocidad. Mantén un ritmo que puedas sostener durante todo el tiempo recomendado para maximizar los beneficios.
 Escucha a tu cuerpo: Si sientes dolor o incomodidad, detente y consulta a un profesional si es necesario.
 Varía las actividades: Cambiar entre diferentes tipos de cardio (correr, nadar, bicicleta, HIIT) puede evitar el aburrimiento y trabajar diferentes grupos musculares.
+
+##Actividades recomendadas
+Correr o trotar: Ideal para mejorar la resistencia cardiovascular. Puedes hacerlo al aire libre o en una caminadora.
+Nadar: Es un ejercicio de bajo impacto que trabaja todo el cuerpo y es excelente para las articulaciones.
+Ciclismo: Ya sea en bicicleta estática o al aire libre, es una excelente opción de bajo impacto.
+Entrenamientos en intervalos (HIIT): Alterna entre ráfagas de alta intensidad y períodos de descanso o baja intensidad, ideal para quemar grasa rápidamente.
